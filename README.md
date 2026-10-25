@@ -66,6 +66,6 @@ extends = "rtk:default"
 enabled = false
 ```
 
-Measured by [rtk](https://github.com/rtk-ai/rtk) v0.49.0 on 2026-10-25.
+Measured by [rtk](https://github.com/rtk-ai/rtk) v1.0.1 on 2026-10-25.
 
 Install this pipeline: `rtk pipeline add <url-of-this-card>`
